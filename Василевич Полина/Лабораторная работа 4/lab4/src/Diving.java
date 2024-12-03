@@ -1,0 +1,3 @@
+interface Diving {
+    String diveInfo();
+}
